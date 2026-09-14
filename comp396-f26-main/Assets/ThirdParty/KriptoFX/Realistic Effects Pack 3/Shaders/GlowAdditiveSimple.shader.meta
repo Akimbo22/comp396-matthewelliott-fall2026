@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7682ab5e936afcb469d7fef4d5adf6eb
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/GlowAdditiveSimple.shader
+  uploadId: 231050

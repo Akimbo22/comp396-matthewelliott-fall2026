@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4996bdbd35ff2d40b453dff309a85c9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Scripts/Prefabs/Buffs/DebuffOnEnemyFromCollision.cs
+  uploadId: 231050

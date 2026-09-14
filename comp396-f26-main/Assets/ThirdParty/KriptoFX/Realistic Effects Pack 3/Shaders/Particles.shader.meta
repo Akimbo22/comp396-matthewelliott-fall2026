@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e3b36c7226acbd34096371aea15f3d93
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/Particles.shader
+  uploadId: 231050

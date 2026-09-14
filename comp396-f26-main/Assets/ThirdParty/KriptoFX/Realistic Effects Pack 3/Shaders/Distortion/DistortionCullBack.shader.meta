@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 652c2a99c6cba874ca99f3e5bd619e1c
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/Distortion/DistortionCullBack.shader
+  uploadId: 231050

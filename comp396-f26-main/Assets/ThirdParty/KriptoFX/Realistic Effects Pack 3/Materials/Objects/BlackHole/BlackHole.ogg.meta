@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 29b2fa81a2992c84bae0bf40c2bf4e52
+AudioImporter:
+  serializedVersion: 4
+  format: 0
+  quality: .360000014
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Materials/Objects/BlackHole/BlackHole.ogg
+  uploadId: 231050

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 49895ab10e5998b4db8eee81071536b6
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/ParticleAddNoSmooth.shader
+  uploadId: 231050

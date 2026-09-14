@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e1db95d5cd48d3743bb433c80809031e
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/AlphaBlended.shader
+  uploadId: 231050

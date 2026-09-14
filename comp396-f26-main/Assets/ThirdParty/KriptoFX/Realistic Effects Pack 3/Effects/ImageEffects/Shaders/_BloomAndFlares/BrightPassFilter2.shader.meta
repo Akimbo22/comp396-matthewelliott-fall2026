@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0aeaa4cb29f5d4e9c8455f04c8575c8c
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+  uploadId: 231050

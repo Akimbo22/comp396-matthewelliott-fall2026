@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fc6c46ec32b988468e3739b0aaf605d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Scripts/Prefabs/Buffs/AnimationSpeedDebuff.cs
+  uploadId: 231050

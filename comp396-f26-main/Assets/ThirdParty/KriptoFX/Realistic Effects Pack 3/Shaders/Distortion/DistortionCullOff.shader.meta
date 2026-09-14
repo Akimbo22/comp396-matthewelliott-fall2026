@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6f4bf548ab370524fbbd19ba0d0e19a9
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/Distortion/DistortionCullOff.shader
+  uploadId: 231050

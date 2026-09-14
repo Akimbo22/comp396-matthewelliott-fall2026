@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0806d638f118c844b9909f0a153b6bf7
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/Mobile/Distortion/DistortionParticlesCutout.shader
+  uploadId: 231050

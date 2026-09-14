@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6bdc531c3f0982c42a38e76ef4bef537
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Scripts/Prefabs/Buffs/ShieldCollisionBehaviour.cs
+  uploadId: 231050

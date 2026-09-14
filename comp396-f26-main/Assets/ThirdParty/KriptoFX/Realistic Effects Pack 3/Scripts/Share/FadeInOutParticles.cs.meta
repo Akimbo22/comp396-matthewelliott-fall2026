@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d49fae75ecc0a9f46b41c502f1ac1bf8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Scripts/Share/FadeInOutParticles.cs
+  uploadId: 231050

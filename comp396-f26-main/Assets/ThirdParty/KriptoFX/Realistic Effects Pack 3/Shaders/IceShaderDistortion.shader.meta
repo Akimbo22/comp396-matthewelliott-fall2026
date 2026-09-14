@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9e15103ed249e64aa93082158805aad
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/IceShaderDistortion.shader
+  uploadId: 231050

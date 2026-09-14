@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84e5cf106a2334e44a3fc563cd402fe7
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/IceVert.shader
+  uploadId: 231050

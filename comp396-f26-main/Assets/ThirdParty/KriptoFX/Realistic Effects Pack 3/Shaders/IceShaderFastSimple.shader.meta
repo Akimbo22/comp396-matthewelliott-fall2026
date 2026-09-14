@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cbb3742d14f18b840b12244fa880a113
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/IceShaderFastSimple.shader
+  uploadId: 231050

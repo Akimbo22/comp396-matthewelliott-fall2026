@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e45d4f28262b04d10a075856ab5fdb5e
+timeCreated: 1454052270
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Effects/Bloom/Resources/Bloom.shader
+  uploadId: 231050

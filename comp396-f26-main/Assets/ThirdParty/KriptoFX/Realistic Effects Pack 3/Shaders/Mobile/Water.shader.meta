@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b1916e1e6f27054c896639558adfb4e
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Shaders/Mobile/Water.shader
+  uploadId: 231050

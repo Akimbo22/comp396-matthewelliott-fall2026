@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13f3de8ed7cb1e44a9515836082a4cbb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Scripts/Share/CollisionActiveBehaviour.cs
+  uploadId: 231050

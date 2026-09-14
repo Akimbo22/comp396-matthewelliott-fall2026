@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 43fcc28c40e404d4eabfc88b1dbda7b5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27523
+  packageName: Realistic Effects Pack 3
+  packageVersion: 1.2.1
+  assetPath: Assets/KriptoFX/Realistic Effects Pack 3/Editor/ImageEffects/BloomEditor.cs
+  uploadId: 231050
