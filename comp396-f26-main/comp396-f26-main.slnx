@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Core.csproj" />
+  <Project Path="TinyGiantStudio.BetterInspector.Editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="TinyGiantStudio.BetterInspector.BetterNotes.Editor.csproj" />
+  <Project Path="TinyGiantStudio.BetterInspector.BetterTransform.Editor.csproj" />
+  <Project Path="TinyGiantStudio.BetterInspector.BetterNotes.csproj" />
+  <Project Path="TinyGiantStudio.BetterInspector.csproj" />
+</Solution>
