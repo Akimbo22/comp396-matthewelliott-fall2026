@@ -8,6 +8,8 @@ namespace Core.FSM
     public class NPCStateMachine : MonoBehaviour
     {
         StateMachine stateMachine;
+        [SerializeField] private VoidEventChannel harvestEvent;
+        [SerializeField] private bool isHarvestReady;
 
         private void Awake()
         {
@@ -25,18 +27,18 @@ namespace Core.FSM
             //FishingState fishing = new FishingState(renderer);
 
             stateMachine.AddTransition(rest, patrol, new FuncPredicate(() => Keyboard.current.pKey.wasPressedThisFrame));
-            stateMachine.AddTransition(rest, harvest, new FuncPredicate(() => Keyboard.current.hKey.wasPressedThisFrame));
+            stateMachine.AddTransition(rest, harvest, new FuncPredicate(() => isHarvestReady));
 
-            stateMachine.AddTransition(harvest, rest, new FuncPredicate(() => Keyboard.current.rKey.wasPressedThisFrame));
+            stateMachine.AddTransition(harvest, rest, new FuncPredicate(() => !isHarvestReady));
             stateMachine.AddTransition(patrol, rest, new FuncPredicate(() => Keyboard.current.rKey.wasPressedThisFrame));
 
             // I went with F key for plotting transitions, since it can stand for "Farming"
             // M for Mining, which is... self-explanatory
 
             // once you finish harvesting crops, you plant new ones
-            stateMachine.AddTransition(harvest, plotting, new FuncPredicate(() => Keyboard.current.fKey.wasPressedThisFrame));
+            stateMachine.AddTransition(harvest, plotting, new FuncPredicate(() => !isHarvestReady));
             // Harvest any crops that may be done after plotting new seeds
-            stateMachine.AddTransition(plotting, harvest, new FuncPredicate(() => Keyboard.current.hKey.wasPressedThisFrame));
+            stateMachine.AddTransition(plotting, harvest, new FuncPredicate(() => isHarvestReady));
             // Wait for the newly planted seeds to bloom
             stateMachine.AddTransition(plotting, rest, new FuncPredicate(() => Keyboard.current.rKey.wasPressedThisFrame));
             // Head to the mines or end your break in the mines
@@ -47,11 +49,29 @@ namespace Core.FSM
             stateMachine.AddTransition(mining, patrol, new FuncPredicate(() => Keyboard.current.pKey.wasPressedThisFrame));
 
             stateMachine.SetState(rest);
+
+            harvestEvent.OnEventRaised += TransitionToHarvest;
         }
 
         private void Update()
         {
             stateMachine.Update();
+        }
+
+        private void OnDisable()
+        {
+            harvestEvent.OnEventRaised -= TransitionToHarvest;
+        }
+
+        //private bool CheckHarvestPoint(Vector3 harvestLocation)
+        //{
+
+        //    return isHarvestReady;
+        //}
+
+        private void TransitionToHarvest()
+        {
+            isHarvestReady = !isHarvestReady;
         }
     }
 }
