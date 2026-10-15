@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bc9d930adc575a4bba93ef09b596622, type: 3}
+  m_Name: Beach_L
+  m_EditorClassIdentifier: Core::Core.WFC.TileData
+  tileName: Beach_Left
+  prefab: {fileID: 4583421561850578066, guid: 286725ab15c7c644e9af4f4b99680633, type: 3}
+  validBottom:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 95832cccbc76f8a47a4f1d8ca855a54f, type: 2}
+  validLeft:
+  - {fileID: 11400000, guid: de6cdacef0a5cab479aa401c27b1b395, type: 2}
+  validRight:
+  - {fileID: 11400000, guid: 95832cccbc76f8a47a4f1d8ca855a54f, type: 2}
+  validTop:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 95832cccbc76f8a47a4f1d8ca855a54f, type: 2}
