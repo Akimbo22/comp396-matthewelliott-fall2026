@@ -295,6 +295,18 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
+      propertyPath: width
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
+      propertyPath: height
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
+      propertyPath: createTimer
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
       propertyPath: materials.Array.size
       value: 40
       objectReference: {fileID: 0}
