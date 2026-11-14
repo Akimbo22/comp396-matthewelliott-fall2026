@@ -6,6 +6,9 @@ TagManager:
   tags:
   - HarvestingPlot
   - Caves
+  - CinemachineTarget
+  - Enemy
+  - Ground
   layers:
   - Default
   - TransparentFX

@@ -897,6 +897,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Core::EventTimer
   _channelPos: {fileID: 11400000, guid: fd0af891ca0ffcd44bfe6bbedf073a1c, type: 2}
   _harvestLocations: []
+  _boolUIEvent: {fileID: 11400000, guid: d4987b6c938f1524d9d9ebd14244bede, type: 2}
 --- !u!4 &1208456481
 Transform:
   m_ObjectHideFlags: 0
@@ -953,7 +954,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1334637992
 MonoBehaviour:
   m_ObjectHideFlags: 0
